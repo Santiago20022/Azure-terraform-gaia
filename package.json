@@ -1,0 +1,13 @@
+{
+  "name": "ci-cdactions",
+  "version": "1.0.0",
+  "description": "First commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Running tests...'",
+    "build": "echo 'Building project...'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
